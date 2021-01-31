@@ -2,6 +2,8 @@
 
 The challenge here is to **create a reusable, vanilla-React calendar component**
 
+![completed calendar challenge](./public/calender.png)
+
 ## Functionalities that are implemented
   Allow users to 
  - add/remove events
