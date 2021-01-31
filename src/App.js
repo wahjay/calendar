@@ -61,7 +61,7 @@ export const App = () => {
     }
 
     return (
-        <div style={{ width: '800px', height: '400px', margin: '10% auto' }}>
+        <div style={{ width: '400px', height: '400px', margin: '10% auto' }}>
             <Calendar
                 events={events}
                 onCreateEvent={onCreateEvent}
